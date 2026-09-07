@@ -30,6 +30,8 @@ public release were development milestones.
   @YoMosa2009.
 - `sifty doctor` now reports the Python and Windows version it is running on,
   in both the table and the JSON output. Thanks @JMar2021.
+- Test coverage for `human_size()` across the unit boundaries. Thanks
+  @be-student.
 
 ### Changed
 
